@@ -3,5 +3,5 @@ STEPS FOLLOWED :
 1. Data Preparation
 2. Data cleaning
 3. Model building
-4. MOdel Tuning
+4. Model Tuning
 5. Model Testing
