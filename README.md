@@ -1,1 +1,7 @@
 # Content-Recommendation-System
+STEPS FOLLOWED :
+1. Data Preparation
+2. Data cleaning
+3. Model building
+4. MOdel Tuning
+5. Model Testing
